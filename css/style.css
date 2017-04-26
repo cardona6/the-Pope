@@ -1,0 +1,35 @@
+body{
+            font-family:sans;
+    
+}
+h1{
+            color:white;
+  
+}
+h4{
+  background-color:yellow;
+  color:black
+}
+              
+#header{
+  background-color:blue;
+  color:white;
+  text-align:center;
+}
+
+.section-title {
+  background-color:yellow;
+  color:black;
+}
+.jumbotron{
+  background-color:green;
+    color:white;
+}
+.summ{
+  background-color:red;
+  color:white;
+}
+.summun{
+  background-color:purple;
+    color:white;
+}
